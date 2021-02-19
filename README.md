@@ -1,2 +1,2 @@
-# chatter
-A Chat Room Web App
+# Chatter
+A chat room web app
